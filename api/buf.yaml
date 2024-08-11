@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/ivanbulyk/logistics_engine_api
+breaking:
+  use:
+    - FILE
+lint:
+  use:
+    - DEFAULT
